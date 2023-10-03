@@ -1,0 +1,2 @@
+tqdm>=4.64.1
+otter-grader==4.2.1
